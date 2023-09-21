@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "contactName": "LALISA",
+      "contactPhone": "0987654678",
+      "contactImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BLACKPINK%27s_Lisa_for_BULGARI_June_2023_04.jpg/800px-BLACKPINK%27s_Lisa_for_BULGARI_June_2023_04.jpg",
+      "id": 1
+    },
+    {
+      "contactName": "ROZE",
+      "contactPhone": "9876890",
+      "contactImg": "https://i.pinimg.com/originals/cd/61/25/cd61252d7c7b23934e42389e9f50aab3.jpg",
+      "id": 2
+    },
+    {
+      "contactName": "JENNIE",
+      "contactPhone": "1234567890",
+      "contactImg": "https://i0.wp.com/netizensreport.com/wp-content/uploads/2023/06/Jennie-Kim-768x957-1.jpg?fit=768%2C957&ssl=1",
+      "id": 3
+    },
+    {
+      "contactName": "JISOO",
+      "contactPhone": "1234567",
+      "contactImg": "https://uvelirnoedelo.ru/wp-content/uploads/2022/05/Jisoo-iz-Blackpink-debutiruet-v-kachestve-ambassadora-Cartier-1.jpg",
+      "id": 4
+    }
+  ]
+}
